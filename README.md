@@ -13,7 +13,7 @@
 
 <!--The skills-->
 <div align="left">
-## My Languages and Tools :
+<h3>My Languages and Tools :</h3>
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,figma,wordpress,github,phpstorm">
 </div>
 
