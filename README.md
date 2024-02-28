@@ -8,7 +8,7 @@
 <!--About me-->
 <div align="left">
   <h3>⭐ About me :</h3>
-  <p>I am Full Stack Developper student, I am 20 years and started my studies in Belgium at Haute Ecole de la Province de liége, and I am currently in the second year."</p>
+  <p>I am Full Stack Developper student, I am 20 years and started my studies in Belgium at Haute Ecole de la Province de liège, and I am currently in the second year."</p>
 </div>
 
 <!--The skills-->
