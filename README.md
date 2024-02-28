@@ -7,7 +7,7 @@
 
 <!--About me-->
 <div align="left">
-  <h2>⭐ About me :</h2>
+  <h3>⭐ About me :</h3>
   <p>I am Full Stack Developper student, I am 20 years and started my studies in Belgium at Haute Ecole de la Province de liége, and I am currently in the second year."</p>
 </div>
 
@@ -19,7 +19,7 @@
 
 <!--Where me find-->
 <div align="left"> 
-  <h2>🌍 Where me find</h2>
+  <h3>🌍 Where me find</h3>
   <a href="https://www.instagram.com/sam_requena" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" target="_blank"></a>
   <a href="mailto:samrequena1510@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" target="_blank"></a>
 </div>
