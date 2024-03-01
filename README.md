@@ -7,13 +7,13 @@
 
 <!--About me-->
 <div align="left">
-  <h4>⭐ About me :</h4>
+  <h3>⭐ About me :</h3>
   <p>I am Full Stack Developper student, I am 20 years and started my studies in Belgium at Haute Ecole de la Province de liège, and I am currently in the second year."</p>
 </div>
 
 <!--The skills-->
 <div align="left">
-<h4>💻 My Languages and Tools :</h4>
+<h3>💻 My Languages and Tools :</h3>
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,figma">
 </div>
 <div align="left">
