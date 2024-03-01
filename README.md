@@ -7,19 +7,19 @@
 
 <!--About me-->
 <div align="left">
-  <h3>⭐ About me :</h3>
+  <h4>⭐ About me :</h4>
   <p>I am Full Stack Developper student, I am 20 years and started my studies in Belgium at Haute Ecole de la Province de liège, and I am currently in the second year."</p>
 </div>
 
 <!--The skills-->
 <div align="left">
-<h3>My Languages and Tools :</h3>
+<h4>💻 My Languages and Tools :</h4>
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,figma,wordpress,github,phpstorm">
 </div>
 
 <!--Where me find-->
 <div align="left"> 
-  <h3>🌍 Where me find</h3>
+  <h3>🌍 Contact me</h3>
   <a href="https://www.instagram.com/sam_requena" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" target="_blank"></a>
   <a href="mailto:samrequena1510@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" target="_blank"></a>
 </div>
