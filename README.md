@@ -14,8 +14,10 @@
 <!--The skills-->
 <div align="left">
 <h4>💻 My Languages and Tools :</h4>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,figma,wordpress,github,phpstorm">
-  <img src="https://skillicons.dev/icons?i=wordpress,github,phpstorm">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,figma">
+</div>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=wordpress,github,phpstorm">
 </div>
 
 <!--Where me find-->
